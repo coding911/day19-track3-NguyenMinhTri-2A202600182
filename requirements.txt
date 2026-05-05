@@ -1,0 +1,11 @@
+networkx
+matplotlib
+openai
+pandas
+langchain
+langchain-openai
+chromadb
+tiktoken
+python-dotenv
+scikit-learn
+pydantic
