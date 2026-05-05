@@ -1,11 +1,21 @@
 ﻿Question,GraphRAG_Answer,FlatRAG_Answer,Flat_RAG_Hallucinated
-Ai là người sáng lập ra công ty tạo ra ChatGPT?,"Sam Altman và Elon Musk là những người sáng lập ra OpenAI, công ty tạo ra ChatGPT.",I don't know.,YES
+Ai là người sáng lập ra công ty tạo ra ChatGPT?,Elon Musk và Sam Altman.,I don't know.,YES
 Công ty nào đã đầu tư vào tổ chức do những cựu nhân viên của OpenAI thành lập?,I don't know.,I don't know.,NO
 Sản phẩm nào cạnh tranh với GPT-4 và do ai phát triển?,"Sản phẩm cạnh tranh với GPT-4 là Gemini, và nó được phát triển bởi Google.","Sản phẩm cạnh tranh với GPT-4 là Gemini, do Google phát triển.",NO
 Elon Musk có liên quan đến những công ty nào?,Elon Musk có liên quan đến OpenAI và xAI.,Elon Musk có liên quan đến xAI và OpenAI.,NO
-Công ty sở hữu công cụ tìm kiếm Bing có mối quan hệ gì với tổ chức tạo ra ChatGPT?,"Công ty sở hữu công cụ tìm kiếm Bing, Microsoft, đã tích hợp ChatGPT vào dịch vụ của mình.","Công ty sở hữu công cụ tìm kiếm Bing là Microsoft, và họ đã tích hợp ChatGPT vào công cụ tìm kiếm của mình.",NO
+Công ty sở hữu công cụ tìm kiếm Bing có mối quan hệ gì với tổ chức tạo ra ChatGPT?,"Công ty sở hữu công cụ tìm kiếm Bing, Microsoft, đã tích hợp ChatGPT vào Bing.",Công ty sở hữu công cụ tìm kiếm Bing (Microsoft) đã tích hợp ChatGPT vào công cụ tìm kiếm của họ.,NO
 Ai là CEO của công ty sản xuất iPhone?,I don't know.,I don't know.,NO
 Công ty do Jensen Huang làm CEO sản xuất sản phẩm nào?,Công ty do Jensen Huang làm CEO sản xuất sản phẩm chip GPU H100.,I don't know.,YES
 Mô hình Llama là do công ty của ai phát triển?,Mô hình Llama là do công ty Meta phát triển.,Mô hình Llama là do Meta phát triển.,NO
 Grok là sản phẩm của công ty nào và ai đã thành lập công ty đó?,"Grok là sản phẩm của công ty xAI, và công ty đó được thành lập bởi Elon Musk.","Grok là sản phẩm của xAI, công ty do Elon Musk thành lập.",NO
 Tên CEO của công ty mẹ sở hữu DeepMind là gì?,I don't know.,I don't know.,NO
+Ai là CEO của công ty nhận được hàng tỷ USD đầu tư từ Microsoft?,I don't know.,"Satya Nadella là CEO của Microsoft, không phải của công ty nhận được đầu tư. Tôi không biết.",NO
+Công ty nào tạo ra Claude và ai đã đầu tư vào nó?,Công ty tạo ra Claude là Anthropic và Amazon đã đầu tư vào nó.,"Công ty tạo ra Claude là Anthropic, và Amazon đã đầu tư vào nó.",NO
+Ai từng tham gia sáng lập OpenAI nhưng hiện đang sở hữu xAI?,Elon Musk từng tham gia sáng lập OpenAI nhưng hiện đang sở hữu xAI.,Elon Musk.,YES
+Satya Nadella có mối liên hệ như thế nào với Sam Altman qua công ty của họ?,I don't know.,I don't know.,NO
+Demis Hassabis làm việc cho tổ chức nào thuộc sở hữu của ai?,"Demis Hassabis làm việc cho DeepMind, tổ chức thuộc sở hữu của Google.","Demis Hassabis làm việc cho DeepMind, một công ty con của Google.",NO
+Chip H100 dùng để huấn luyện AI lớn do ai làm CEO của công ty sản xuất?,I don't know.,I don't know.,NO
+Công ty sản xuất dòng mô hình mã nguồn mở Llama có CEO là ai?,CEO của công ty sản xuất dòng mô hình mã nguồn mở Llama là Mark Zuckerberg.,I don't know.,YES
+Dario Amodei từng làm việc ở đâu trước khi tạo ra Claude?,Dario Amodei từng làm việc ở OpenAI trước khi tạo ra Claude.,Dario Amodei từng làm việc ở OpenAI trước khi tạo ra Claude.,NO
+Công cụ tìm kiếm nào được tích hợp công nghệ từ tổ chức của Sam Altman?,I don't know.,Công cụ tìm kiếm Bing.,YES
+Những ai đã sáng lập ra công ty phát triển mô hình Gemini?,I don't know.,I don't know.,NO

@@ -21,7 +21,17 @@ BENCHMARK_QUESTIONS = [
     "Công ty do Jensen Huang làm CEO sản xuất sản phẩm nào?",
     "Mô hình Llama là do công ty của ai phát triển?",
     "Grok là sản phẩm của công ty nào và ai đã thành lập công ty đó?",
-    "Tên CEO của công ty mẹ sở hữu DeepMind là gì?"
+    "Tên CEO của công ty mẹ sở hữu DeepMind là gì?",
+    "Ai là CEO của công ty nhận được hàng tỷ USD đầu tư từ Microsoft?",
+    "Công ty nào tạo ra Claude và ai đã đầu tư vào nó?",
+    "Ai từng tham gia sáng lập OpenAI nhưng hiện đang sở hữu xAI?",
+    "Satya Nadella có mối liên hệ như thế nào với Sam Altman qua công ty của họ?",
+    "Demis Hassabis làm việc cho tổ chức nào thuộc sở hữu của ai?",
+    "Chip H100 dùng để huấn luyện AI lớn do ai làm CEO của công ty sản xuất?",
+    "Công ty sản xuất dòng mô hình mã nguồn mở Llama có CEO là ai?",
+    "Dario Amodei từng làm việc ở đâu trước khi tạo ra Claude?",
+    "Công cụ tìm kiếm nào được tích hợp công nghệ từ tổ chức của Sam Altman?",
+    "Những ai đã sáng lập ra công ty phát triển mô hình Gemini?"
 ]
 
 def evaluate_responses(graph_rag: GraphRAG, flat_rag: FlatRAG):
